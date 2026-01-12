@@ -13,7 +13,7 @@ I specialize in building <b>scalable, secure, and user‑friendly applications</
 
 🚀 <b>Projects:</b><br>
 <b>CrowdShield:</b> AI‑powered crowd management using YOLOv8, Flask, Spring Boot, and MySQL.<br>
-<b>SmartLend.AI:</b> AI‑driven platform for transparent personal loan recommendations — analyzes financial profiles in seconds and provides secure, personalized suggestions with complete explanations.<br><br>
+<b>SmartLend.AI:</b> AI‑driven platform for transparent personal loan recommendations — analyzes financial profiles in seconds and provides secure, personalized suggestions with complete explanations.
 <b>AI Builder Platform:</b> Full‑stack workflow automation tool with JWT authentication and CI/CD integration.<br><br>
 
 📜 <b>Certifications:</b> Oracle DevOps Professional, Oracle AI Foundations Associate, AWS Solutions Architect.
