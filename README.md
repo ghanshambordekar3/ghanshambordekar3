@@ -2,7 +2,7 @@
 Hi, I’m <b>Ghansham Bordekar</b>, a passionate <b>Full‑Stack Developer</b> from Nashik, Maharashtra.<br>
 I specialize in building <b>scalable, secure, and user‑friendly applications</b> that blend strong backend architecture with intuitive frontend design.<br><br>
 
-🎓 <b>Education:</b> Pursuing B.Tech in Computer Science & Engineering at Sandip University (2022–2026).<br><br>
+🎓 <b>Education:</b> Pursuing B.Tech in Computer Science & Engineering at Sandip University (2022–2026).
 
 💻 <b>Technical Skills:</b> Java, Python, JavaScript, Spring Boot, Flask, React.js, MySQL, JWT, CI/CD, OCI, AWS.<br><br>
 
