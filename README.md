@@ -7,6 +7,7 @@ I specialize in building <b>scalable, secure, and user‑friendly applications</
 💻 <b>Technical Skills:</b> Java, Python, JavaScript, Spring Boot, Flask, React.js, MySQL, JWT, CI/CD, OCI, AWS.<br><br>
 
 🔭 <b>Experience:</b><br>
+<b>Java Full-Stack Developer Intern – Amdox Technologies:</b> Developed scalable web applications with Java, Spring Boot, React, and MySQL; built secure RESTful APIs with JWT; optimized backend performance; and enhanced deployment workflows using CI/CD and GitHub.<br><br>
 <b>Software Developer Intern – Prasad Computers:</b> Optimized backend services, implemented secure REST APIs, and improved performance by 30%.<br>
 <b>Software Developer Intern – TechnoHacks:</b> Contributed to full‑stack apps, API development, and frontend integration.<br>
 <b>Freelance Project Developer – PotobaFoods & ChronoCart:</b> Designed e‑commerce workflows, branding assets, and scalable web solutions.<br><br>
